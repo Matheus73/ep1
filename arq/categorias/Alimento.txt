@@ -1,0 +1,30 @@
+123456
+Biscoito Recheado
+2.50
+100
+Alimento/Doce
+654321
+Biscoito de Sal
+3.00
+100
+Alimento
+753951
+Pao
+0.50
+100
+Alimento/Padaria
+759684
+Cereal
+8.00
+100
+Alimento
+684265
+Carne
+24.00
+100
+Alimento
+637412
+Peixe
+34.00
+100
+Alimento
