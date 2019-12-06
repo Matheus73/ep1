@@ -1,4 +1,8 @@
 # EP1 - OO 2019.2 (UnB - Gama)
+## Matéria de Programação orientada a objetos
+
+## link para repositorio utilizado
+https://gitlab.com/Matheus731/ep1
 
 ## Descrição
 
